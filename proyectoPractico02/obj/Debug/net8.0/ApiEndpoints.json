@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "proyectoPractico02.Controllers.ArticulosController",
+    "Method": "Actualizar",
+    "RelativePath": "Actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articulo",
+        "Type": "proyectoPractico02.Models.Articulos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectoPractico02.Controllers.ArticulosController",
+    "Method": "BorrarArticulos",
+    "RelativePath": "Borrar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectoPractico02.Controllers.ArticulosController",
+    "Method": "CrearArticulos",
+    "RelativePath": "Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articulo",
+        "Type": "proyectoPractico02.Models.Articulos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectoPractico02.Controllers.ArticulosController",
+    "Method": "ObtenerPorId",
+    "RelativePath": "Obtener por ID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "proyectoPractico02.Controllers.ArticulosController",
+    "Method": "ObtenerTodos",
+    "RelativePath": "ObtenerTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
