@@ -1,0 +1,66 @@
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.exe
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.deps.json
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.runtimeconfig.json
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.pdb
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\System.Data.SqlClient.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.csproj.AssemblyReference.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.GeneratedMSBuildEditorConfig.editorconfig
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.AssemblyInfoInputs.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.AssemblyInfo.cs
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.csproj.CoreCompileInputs.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyecto.16050710.Up2Date
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\refint\proyectoPractico01.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.pdb
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.genruntimeconfig.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\ref\proyectoPractico01.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.exe
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.deps.json
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.runtimeconfig.json
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.pdb
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\System.Data.SqlClient.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.csproj.AssemblyReference.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.GeneratedMSBuildEditorConfig.editorconfig
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.AssemblyInfoInputs.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.AssemblyInfo.cs
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.csproj.CoreCompileInputs.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyecto.16050710.Up2Date
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\refint\proyectoPractico01.dll
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.pdb
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.genruntimeconfig.cache
+J:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\proyecto[Practico01]\proyectoPractico01\obj\Debug\net6.0\ref\proyectoPractico01.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.exe
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.deps.json
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.runtimeconfig.json
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\proyectoPractico01.pdb
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.csproj.AssemblyReference.cache
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.AssemblyInfoInputs.cache
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.AssemblyInfo.cs
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.csproj.CoreCompileInputs.cache
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyecto.16050710.Up2Date
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\refint\proyectoPractico01.dll
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.pdb
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\proyectoPractico01.genruntimeconfig.cache
+D:\TUP\Materias\Segundo Cuatrimestre\Prog II\Unidad 1\Tarea\ProyectosPracticos\proyectoPractico01\obj\Debug\net6.0\ref\proyectoPractico01.dll
