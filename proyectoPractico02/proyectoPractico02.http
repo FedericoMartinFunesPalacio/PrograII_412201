@@ -1,6 +1,0 @@
-@proyectoPractico02_HostAddress = http://localhost:5287
-
-GET {{proyectoPractico02_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
