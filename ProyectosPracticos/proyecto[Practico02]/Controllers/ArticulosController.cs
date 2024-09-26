@@ -32,7 +32,7 @@ namespace proyecto_Practico02_.Controllers
         public IActionResult ObtenerPorId(int id)
         {
             var lista = _repository.TraerPorID(id);
-            if (lista == null || lista.Count == 0)
+            if (lista == null)
             {
                 return BadRequest("No se pudo obtener el elemento por el id");
             }

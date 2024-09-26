@@ -13,5 +13,6 @@ namespace proyectoPractico01.Servicio
         public bool Registrar_Editar(Facturas oFactura);
         public List<Facturas> GetAll();
         public List<Facturas> ConsultarFactura(int id);
+        public List<Facturas> ConsultarFacturaParametro(DateTime? fecha, int? formPag);
     }
 }

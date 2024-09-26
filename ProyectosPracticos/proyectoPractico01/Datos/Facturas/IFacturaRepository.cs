@@ -13,5 +13,6 @@ namespace proyectoPractico01.Datos.Factura
         List<Facturas> ConsultarFactura(int id);
         bool Registrar_Editar(Facturas oFacturas);
         bool Delete(int id);
+        List<Facturas> ConsultarFacturaParametro(DateTime? fecha, int? formPag);
     }
 }

@@ -66,10 +66,22 @@ begin
 	DELETE Facturas WHERE id_factura = @id_factura
 end
 
+create procedure SP_TRAER_FACTURA_PARAMETROS
+@fecha datetime = '2000/1/1',
+@idFormaPago int = 0
+as
+begin
+	SELECT f.id_factura,  f.cliente, a.id_articulo, a.precio_unitario, df.cantidad, f.id_forma_pago
+	FROM Facturas as f
+	join DetallesFacturas as df on f.id_factura = df.id_factura
+	join Articulos as a on a.id_articulo = df.id_articulo
+	WHERE f.fecha = @fecha or f.id_forma_pago = @idFormaPago
+end
+
 create procedure SP_TRAER_FACTURA
 as
 begin
-	SELECT f.id_factura, df.id_detalle_factura, f.cliente, a.id_articulo, a.precio_unitario, df.cantidad, f.id_forma_pago
+	SELECT f.id_factura,  f.cliente, a.id_articulo, a.precio_unitario, df.cantidad, f.id_forma_pago
 	FROM Facturas as f
 	join DetallesFacturas as df on f.id_factura = df.id_factura
 	join Articulos as a on a.id_articulo = df.id_articulo
@@ -79,7 +91,7 @@ create procedure SP_TRAER_FACTURA_POR_ID
 @id_factura int = 3 --Default
 as
 begin
-	SELECT f.id_factura, df.id_detalle_factura, f.cliente, a.id_articulo, a.precio_unitario, df.cantidad, f.id_forma_pago
+	SELECT f.id_factura,  f.cliente, a.id_articulo, a.precio_unitario, df.cantidad, f.id_forma_pago
 	FROM Facturas as f
 	join DetallesFacturas as df on f.id_factura = df.id_factura
 	join Articulos as a on a.id_articulo = df.id_articulo

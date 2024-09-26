@@ -77,7 +77,7 @@ while (opcion != 0)
         Console.WriteLine("[3] GALLETA");
         Console.WriteLine("[4] ALFAJOR");
         Console.WriteLine("[5] TORTA");
-        oFactura.IdArticulo = Convert.ToInt16(Console.ReadLine());
+        //oFactura.IdArticulo = Convert.ToInt16(Console.ReadLine());
         Console.WriteLine("ESCRIBA LA CANTIDAD DEL PRODUCTO");
         oFactura.Cantidad = Convert.ToInt16(Console.ReadLine());
         Console.WriteLine("SELECCIONE LA FORMA DE PAGO: ");

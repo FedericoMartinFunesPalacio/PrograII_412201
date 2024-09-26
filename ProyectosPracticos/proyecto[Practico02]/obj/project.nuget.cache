@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vrFp/F1iKZ4=",
+  "dgSpecHash": "NWfK8Fi/wJo=",
   "success": true,
-  "projectFilePath": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyecto[Practico02]\\proyectoPractico02.csproj",
+  "projectFilePath": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyecto[Practico02]\\proyectoPractico02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\funes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\funes\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

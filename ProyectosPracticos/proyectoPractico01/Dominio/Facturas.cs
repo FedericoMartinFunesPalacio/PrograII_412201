@@ -10,9 +10,8 @@ namespace proyectoPractico01.Dominio
     {
         //ATRIBUTOS
         private int idFactura;
-        private int idDetalle;
         private string cliente;
-        private int idArticulo;
+        private Articulos idArticulo;
         private int precioUnitario;
         private int cantidad;
         private int idFormaPago;
@@ -20,9 +19,8 @@ namespace proyectoPractico01.Dominio
 
         //Props
         public int IdFactura { get { return idFactura; } set { idFactura = value; } }
-        public int IdDetalle { get { return idDetalle; } set { idDetalle = value; } }
         public string Cliente { get { return cliente; } set { cliente = value; } }
-        public int IdArticulo { get { return idArticulo; } set { idArticulo = value; } }
+        public Articulos IdArticulo { get { return idArticulo; } set { idArticulo = value; } }
         public int PrecioUnitario { get { return precioUnitario; } set { precioUnitario = value; } }
         public int Cantidad { get { return cantidad; } set { cantidad = value; } }
         public int IdFormaPago { get { return idFormaPago; } set { idFormaPago = value; } }

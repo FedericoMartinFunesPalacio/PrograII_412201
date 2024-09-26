@@ -1,10 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyectoPractico01\\",
+  "WorkspaceRootPath": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|d:\\tup\\materias\\segundo cuatrimestre\\prog ii\\unidad 1\\tarea\\proyectospracticos\\proyectopractico01\\datos\\facturas\\facturarepository_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\proyectospracticos\\proyectopractico01\\servicio\\facturasservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|solutionrelative:servicio\\facturasservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\proyectospracticos\\proyectopractico01\\servicio\\ifacturaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|solutionrelative:servicio\\ifacturaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\proyectospracticos\\proyectopractico01\\datos\\facturas\\facturarepository_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|solutionrelative:datos\\facturas\\facturarepository_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\proyectospracticos\\proyectopractico01\\datos\\facturas\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|solutionrelative:datos\\facturas\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF46C31-6044-4264-8986-9342BA8B31D5}|..\\proyecto[Practico02]\\proyectoPractico02.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\proyectospracticos\\proyecto[practico02]\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\proyectospracticos\\proyectopractico01\\dominio\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C7B119-1AAF-4789-ACF8-B7ED03523A7C}|proyectoPractico01.csproj|solutionrelative:dominio\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +33,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFacturaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Servicio\\IFacturaServicio.cs",
+              "RelativeDocumentMoniker": "Servicio\\IFacturaServicio.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Servicio\\IFacturaServicio.cs",
+              "RelativeToolTip": "Servicio\\IFacturaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:42:04.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FacturasServicio.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Servicio\\FacturasServicio.cs",
+              "RelativeDocumentMoniker": "Servicio\\FacturasServicio.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Servicio\\FacturasServicio.cs",
+              "RelativeToolTip": "Servicio\\FacturasServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:42:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyecto[Practico02]\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "..\\proyecto[Practico02]\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyecto[Practico02]\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "..\\proyecto[Practico02]\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA1wCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:40:02.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Dominio\\Facturas.cs",
+              "RelativeDocumentMoniker": "Dominio\\Facturas.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Dominio\\Facturas.cs",
+              "RelativeToolTip": "Dominio\\Facturas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:17:14.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FacturaRepository_ADO.cs",
-              "DocumentMoniker": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyectoPractico01\\Datos\\Facturas\\FacturaRepository_ADO.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Datos\\Facturas\\FacturaRepository_ADO.cs",
               "RelativeDocumentMoniker": "Datos\\Facturas\\FacturaRepository_ADO.cs",
-              "ToolTip": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyectoPractico01\\Datos\\Facturas\\FacturaRepository_ADO.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Datos\\Facturas\\FacturaRepository_ADO.cs",
               "RelativeToolTip": "Datos\\Facturas\\FacturaRepository_ADO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T23:07:42.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Datos\\Facturas\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Datos\\Facturas\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\Datos\\Facturas\\IFacturaRepository.cs",
+              "RelativeToolTip": "Datos\\Facturas\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:34:10.145Z",
               "EditorCaption": ""
             }
           ]

@@ -47,14 +47,14 @@ namespace proyectoPractico01.Datos.Articulos
             return filasAfectadas > 0;
         }
 
-        public List<Dominio.Articulos> TraerPorID(int id)
+        public Dominio.Articulos TraerPorID(int id)
         {
             var parametros = new List<Parametros>()
             {
                 new Parametros("@id", id)
             };
 
-            var articulos = new List<Dominio.Articulos>();
+            var articulos = new Dominio.Articulos();
 
             if (id > 0)
             {
@@ -70,7 +70,7 @@ namespace proyectoPractico01.Datos.Articulos
                             Nombre = row["nombre"].ToString(),
                             PrecioUnitario = (int)(row["precio_unitario"])
                         };
-                        articulos.Add(articulo);
+                        articulos = articulo;
                     }
                 }
             }

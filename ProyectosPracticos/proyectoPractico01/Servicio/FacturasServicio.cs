@@ -33,5 +33,10 @@ namespace proyectoPractico01.Servicio
         {
             return instancia.ConsultarFactura(id);
         }
+
+        public List<Facturas> ConsultarFacturaParametro(DateTime? fecha, int? formPag)
+        {
+            return instancia.ConsultarFacturaParametro(fecha, formPag);
+        }
     }
 }

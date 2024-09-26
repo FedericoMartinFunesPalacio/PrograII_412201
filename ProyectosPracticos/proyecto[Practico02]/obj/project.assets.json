@@ -910,11 +910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyecto[Practico02]\\proyectoPractico02.csproj",
+      "projectUniqueName": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyecto[Practico02]\\proyectoPractico02.csproj",
       "projectName": "proyectoPractico02",
-      "projectPath": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyecto[Practico02]\\proyectoPractico02.csproj",
+      "projectPath": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyecto[Practico02]\\proyectoPractico02.csproj",
       "packagesPath": "C:\\Users\\funes\\.nuget\\packages\\",
-      "outputPath": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyecto[Practico02]\\obj\\",
+      "outputPath": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyecto[Practico02]\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\funes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -932,8 +932,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyectoPractico01\\proyectoPractico01.csproj": {
-              "projectPath": "D:\\TUP\\Materias\\Segundo Cuatrimestre\\Prog II\\Unidad 1\\Tarea\\ProyectosPracticos\\proyectoPractico01\\proyectoPractico01.csproj"
+            "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\proyectoPractico01.csproj": {
+              "projectPath": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\ProyectosPracticos\\proyectoPractico01\\proyectoPractico01.csproj"
             }
           }
         }

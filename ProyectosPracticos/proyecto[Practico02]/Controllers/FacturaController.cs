@@ -41,6 +41,21 @@ namespace proyecto_Practico02_.Controllers
             }
         }
 
+        [HttpGet("/FacturaPorParametros")]
+        public IActionResult ObtenerFacturaPorParametros(DateTime? fecha, int? formPag)
+        {
+            var lts = instancia.ConsultarFacturaParametro(fecha, formPag);
+
+            if (lts == null)
+            {
+                return BadRequest("Lista vacia");
+            }
+            else
+            {
+                return Ok(lts);
+            }
+        }
+
         // POST api/<FacturaController>
         [HttpPost]
         public IActionResult Registrar_Editar([FromBody] Facturas value)

@@ -96,6 +96,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "proyecto_Practico02_.Controllers.FacturaController",
+    "Method": "ObtenerFacturaPorParametros",
+    "RelativePath": "FacturaPorParametros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecha",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "formPag",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "proyecto_Practico02_.Controllers.ArticulosController",
     "Method": "ObtenerArticulos",
     "RelativePath": "Obtener",
