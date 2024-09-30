@@ -1,0 +1,15 @@
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\bin\Debug\net8.0\DLL.deps.json
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\bin\Debug\net8.0\DLL.runtimeconfig.json
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\bin\Debug\net8.0\DLL.dll
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\bin\Debug\net8.0\DLL.pdb
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.csproj.AssemblyReference.cache
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.AssemblyInfoInputs.cache
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.AssemblyInfo.cs
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.sourcelink.json
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.dll
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\refint\DLL.dll
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.pdb
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\DLL.genruntimeconfig.cache
+C:\Users\funes\Desktop\C#\PrograII_412201\Problema2_7__412201\DLL\obj\Debug\net8.0\ref\DLL.dll
