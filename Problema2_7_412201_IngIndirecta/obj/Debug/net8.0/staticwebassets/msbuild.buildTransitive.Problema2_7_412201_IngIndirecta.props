@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Problema2_7_412201_IngIndirecta.props" />
+</Project>

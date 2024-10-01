@@ -1,0 +1,6 @@
+@Problema2_7_412201_IngIndirecta_HostAddress = http://localhost:5275
+
+GET {{Problema2_7_412201_IngIndirecta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
