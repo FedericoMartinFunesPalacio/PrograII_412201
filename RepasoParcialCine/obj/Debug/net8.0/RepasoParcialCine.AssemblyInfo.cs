@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepasoParcialCine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52097e4da427f6fe8130f6dbf682fd46939ed0f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c496594ef1cd2e198c25f9c9f0c30b97195d439e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepasoParcialCine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepasoParcialCine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

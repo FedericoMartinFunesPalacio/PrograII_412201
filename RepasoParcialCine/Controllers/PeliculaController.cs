@@ -23,7 +23,7 @@ namespace RepasoParcialCine.Controllers
         {
             try
             {
-                var lts = _repository.GetAll();
+                var lts = _repository.GetAllValidados();
                 return Ok(lts);
             }
             catch (Exception ex)

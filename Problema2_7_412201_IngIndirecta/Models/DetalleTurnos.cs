@@ -9,11 +9,7 @@ public partial class DetalleTurnos
 {
     public int IdDetalle { get; set; }
 
-    public int IdTurno { get; set; }
-
     public int TurnoIdTurno { get; set; }
-
-    public int IdServicio { get; set; }
 
     public int ServicioIdServicio { get; set; }
 

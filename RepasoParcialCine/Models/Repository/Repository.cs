@@ -1,4 +1,5 @@
 ﻿
+using System.Linq;
 namespace RepasoParcialCine.Models.Repository
 {
     public class Repository : IRepository
@@ -27,27 +28,30 @@ namespace RepasoParcialCine.Models.Repository
             return _context.Peliculas.Find(id);
         }
 
-        public List<Peliculas> GetAll()
+        public List<Peliculas> GetAllValidados()
         {
-            List<Peliculas> ltsValida = new List<Peliculas>();
-            var lts = _context.Peliculas.ToList();
-            foreach (var item in lts)
-            {
-                
-                Peliculas pelicula = new Peliculas();
-                pelicula.Id = item.Id;
-                pelicula.Anio = item.Anio;
-                pelicula.Director = item.Director;
-                pelicula.Titulo = item.Titulo;
-                pelicula.Estreno = item.Estreno;
-                pelicula.IdGenero = item.IdGenero;
-                pelicula.IdGeneroNavigation = item.IdGeneroNavigation;
-                if (pelicula.Estreno)
-                {
-                    ltsValida.Add(pelicula);
-                }
-            }
-            return ltsValida;
+            //List<Peliculas> ltsValida = new List<Peliculas>();
+            //var lts = _context.Peliculas.ToList();
+            //foreach (var item in lts)
+            //{
+
+            //    Peliculas pelicula = new Peliculas();
+            //    pelicula.Id = item.Id;
+            //    pelicula.Anio = item.Anio;
+            //    pelicula.Director = item.Director;
+            //    pelicula.Titulo = item.Titulo;
+            //    pelicula.Estreno = item.Estreno;
+            //    pelicula.IdGenero = item.IdGenero;
+            //    pelicula.IdGeneroNavigation = item.IdGeneroNavigation;
+            //    if (pelicula.Estreno)
+            //    {
+            //        ltsValida.Add(pelicula);
+            //    }
+            //}
+            //return ltsValida;
+            var lts = _context.Peliculas.Where(x => x.Estreno == true)
+                .ToList();
+            return lts;
         }
 
         public bool Save(Peliculas pelicula)

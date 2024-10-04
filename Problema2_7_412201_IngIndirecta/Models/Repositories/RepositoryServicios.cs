@@ -1,11 +1,11 @@
 ﻿
 namespace Problema2_7_412201_IngIndirecta.Models.Repositories
 {
-    public class Repository : IRepository
+    public class RepositoryServicios : IRepositoryServicios
     {
         private Problema2_7Context _context;
 
-        public Repository(Problema2_7Context context)
+        public RepositoryServicios(Problema2_7Context context)
         {
             _context = context;
         }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\RepasoParcialCine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BD6F4B7-DFA7-4F3E-852D-1DF014D6C05A}|RepasoParcialCine.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\repasoparcialcine\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BD6F4B7-DFA7-4F3E-852D-1DF014D6C05A}|RepasoParcialCine.csproj|solutionrelative:controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BD6F4B7-DFA7-4F3E-852D-1DF014D6C05A}|RepasoParcialCine.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\repasoparcialcine\\models\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BD6F4B7-DFA7-4F3E-852D-1DF014D6C05A}|RepasoParcialCine.csproj|solutionrelative:models\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD6F4B7-DFA7-4F3E-852D-1DF014D6C05A}|RepasoParcialCine.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\repasoparcialcine\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD6F4B7-DFA7-4F3E-852D-1DF014D6C05A}|RepasoParcialCine.csproj|solutionrelative:controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BD6F4B7-DFA7-4F3E-852D-1DF014D6C05A}|RepasoParcialCine.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\repasoparcialcine\\models\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -34,25 +34,24 @@
               "RelativeToolTip": "Models\\Peliculas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:52:31.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T18:52:31.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\RepasoParcialCine\\Models\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Models\\Repository\\Repository.cs",
               "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\RepasoParcialCine\\Models\\Repository\\Repository.cs",
               "RelativeToolTip": "Models\\Repository\\Repository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T18:42:24.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PeliculaController.cs",
               "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\RepasoParcialCine\\Controllers\\PeliculaController.cs",
               "RelativeDocumentMoniker": "Controllers\\PeliculaController.cs",

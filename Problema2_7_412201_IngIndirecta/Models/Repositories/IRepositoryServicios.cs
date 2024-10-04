@@ -1,6 +1,6 @@
 ﻿namespace Problema2_7_412201_IngIndirecta.Models.Repositories
 {
-    public interface IRepository
+    public interface IRepositoryServicios
     {
         void Create(Servicios servicios);
         void Update(Servicios servicios);

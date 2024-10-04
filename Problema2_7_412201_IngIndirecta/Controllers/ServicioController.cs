@@ -10,9 +10,9 @@ namespace Problema2_7_412201_IngIndirecta.Controllers
     [ApiController]
     public class ServicioController : ControllerBase
     {
-        private IRepository _repository;
+        private IRepositoryServicios _repository;
 
-        public ServicioController(IRepository repository)
+        public ServicioController(IRepositoryServicios repository)
         {
             _repository = repository;
         }

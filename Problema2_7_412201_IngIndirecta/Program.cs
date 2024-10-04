@@ -8,7 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<Problema2_7Context>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddScoped<IRepository, Repository>();
+builder.Services.AddScoped<IRepositoryServicios, RepositoryServicios>();
+builder.Services.AddScoped<IRepositoryTurnos, RepositoryTurnos>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

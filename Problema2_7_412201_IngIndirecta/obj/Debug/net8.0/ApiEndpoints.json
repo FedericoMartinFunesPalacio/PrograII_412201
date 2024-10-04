@@ -56,5 +56,79 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Problema2_7_412201_IngIndirecta.Controllers.TurnosController",
+    "Method": "Get",
+    "RelativePath": "api/Turnos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Problema2_7_412201_IngIndirecta.Controllers.TurnosController",
+    "Method": "Post",
+    "RelativePath": "api/Turnos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "Problema2_7_412201_IngIndirecta.Models.Turnos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Problema2_7_412201_IngIndirecta.Controllers.TurnosController",
+    "Method": "Get",
+    "RelativePath": "api/Turnos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Problema2_7_412201_IngIndirecta.Controllers.TurnosController",
+    "Method": "Delete",
+    "RelativePath": "api/Turnos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Problema2_7_412201_IngIndirecta.Controllers.TurnosController",
+    "Method": "Put",
+    "RelativePath": "api/Turnos/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "Problema2_7_412201_IngIndirecta.Models.Turnos",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
