@@ -34,7 +34,7 @@ namespace Problema2_7_412201_IngIndirecta.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] Turnos value)
         {
-            if(value != null)
+            if(value != null && value.Fecha.Date < DateTime.Now.Date.AddDays(+45))
             {
                 _repository.Save(value);
                 return Ok("Guardado");

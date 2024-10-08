@@ -23,29 +23,49 @@ public partial class Problema2_7Context : DbContext
     {
         modelBuilder.Entity<DetalleTurnos>(entity =>
         {
-            entity.HasKey(e => e.IdDetalle);
+            entity.HasKey(e => e.IdDetalle).HasName("pkD");
 
-            entity.HasIndex(e => e.ServicioIdServicio, "IX_DetalleTurnos_ServicioIdServicio");
+            entity.Property(e => e.IdDetalle).HasColumnName("id_detalle");
+            entity.Property(e => e.IdServicio).HasColumnName("id_servicio");
+            entity.Property(e => e.IdTurno).HasColumnName("id_turno");
+            entity.Property(e => e.Observaciones)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("observaciones");
 
-            entity.HasIndex(e => e.TurnoIdTurno, "IX_DetalleTurnos_TurnoIdTurno");
+            entity.HasOne(d => d.IdServicioNavigation).WithMany(p => p.DetalleTurnos)
+                .HasForeignKey(d => d.IdServicio)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("fkS");
 
-            entity.HasOne(d => d.ServicioIdServicioNavigation).WithMany(p => p.DetalleTurnos).HasForeignKey(d => d.ServicioIdServicio);
-
-            entity.HasOne(d => d.TurnoIdTurnoNavigation).WithMany(p => p.DetalleTurnos).HasForeignKey(d => d.TurnoIdTurno);
+            entity.HasOne(d => d.IdTurnoNavigation).WithMany(p => p.DetalleTurnos)
+                .HasForeignKey(d => d.IdTurno)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("fkT");
         });
 
         modelBuilder.Entity<Servicios>(entity =>
         {
-            entity.HasKey(e => e.IdServicio);
+            entity.HasKey(e => e.IdServicio).HasName("pkS");
 
-            entity.Property(e => e.Nombre).IsRequired();
+            entity.Property(e => e.Nombre)
+                .IsRequired()
+                .HasMaxLength(50)
+                .IsUnicode(false);
         });
 
         modelBuilder.Entity<Turnos>(entity =>
         {
-            entity.HasKey(e => e.IdTurno);
+            entity.HasKey(e => e.IdTurno).HasName("pkT");
 
-            entity.Property(e => e.Cliente).IsRequired();
+            entity.Property(e => e.IdTurno).HasColumnName("id_turno");
+            entity.Property(e => e.Cliente)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("cliente");
+            entity.Property(e => e.Fecha)
+                .HasColumnType("datetime")
+                .HasColumnName("fecha");
         });
 
         OnModelCreatingPartial(modelBuilder);

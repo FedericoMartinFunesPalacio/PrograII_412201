@@ -13,7 +13,7 @@ public partial class Servicios
 
     public int Costo { get; set; }
 
-    public bool EnPromocion { get; set; }
+    public bool? EnPromocion { get; set; }
 
     public virtual ICollection<DetalleTurnos> DetalleTurnos { get; set; } = new List<DetalleTurnos>();
 }

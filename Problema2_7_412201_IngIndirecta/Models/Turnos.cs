@@ -9,9 +9,7 @@ public partial class Turnos
 {
     public int IdTurno { get; set; }
 
-    public DateOnly Fecha { get; set; }
-
-    public TimeOnly Hora { get; set; }
+    public DateTime Fecha { get; set; }
 
     public string Cliente { get; set; }
 

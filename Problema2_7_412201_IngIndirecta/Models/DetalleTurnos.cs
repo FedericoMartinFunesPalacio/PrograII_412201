@@ -9,13 +9,13 @@ public partial class DetalleTurnos
 {
     public int IdDetalle { get; set; }
 
-    public int TurnoIdTurno { get; set; }
+    public int IdTurno { get; set; }
 
-    public int ServicioIdServicio { get; set; }
+    public int IdServicio { get; set; }
 
     public string Observaciones { get; set; }
 
-    public virtual Servicios ServicioIdServicioNavigation { get; set; }
+    public virtual Servicios IdServicioNavigation { get; set; }
 
-    public virtual Turnos TurnoIdTurnoNavigation { get; set; }
+    public virtual Turnos IdTurnoNavigation { get; set; }
 }

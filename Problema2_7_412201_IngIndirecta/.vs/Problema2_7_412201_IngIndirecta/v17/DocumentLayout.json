@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\problema2_7_412201_ingindirecta\\models\\detalleturnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|solutionrelative:models\\detalleturnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\problema2_7_412201_ingindirecta\\models\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|solutionrelative:models\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\problema2_7_412201_ingindirecta\\models\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|solutionrelative:models\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\problema2_7_412201_ingindirecta\\models\\repositories\\repositoryservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|solutionrelative:models\\repositories\\repositoryservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\problema2_7_412201_ingindirecta\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|solutionrelative:controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\problema2_7_412201_ingindirecta\\models\\repositories\\repositoryturnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|solutionrelative:models\\repositories\\repositoryturnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|c:\\users\\funes\\desktop\\c#\\prograii_412201\\problema2_7_412201_ingindirecta\\models\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE65D6E2-B227-4A24-81C6-5F11E6BCEA8C}|Problema2_7_412201_IngIndirecta.csproj|solutionrelative:models\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +26,41 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryTurnos.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Repositories\\RepositoryTurnos.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\RepositoryTurnos.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Repositories\\RepositoryTurnos.cs",
+              "RelativeToolTip": "Models\\Repositories\\RepositoryTurnos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:23:05.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Turnos.cs",
               "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Turnos.cs",
               "RelativeDocumentMoniker": "Models\\Turnos.cs",
               "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Turnos.cs",
               "RelativeToolTip": "Models\\Turnos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:23:07.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Servicios.cs",
-              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Servicios.cs",
-              "RelativeDocumentMoniker": "Models\\Servicios.cs",
-              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Servicios.cs",
-              "RelativeToolTip": "Models\\Servicios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:23:06.695Z",
+              "WhenOpened": "2024-10-08T23:18:23.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DetalleTurnos.cs",
-              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\DetalleTurnos.cs",
-              "RelativeDocumentMoniker": "Models\\DetalleTurnos.cs",
-              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\DetalleTurnos.cs",
-              "RelativeToolTip": "Models\\DetalleTurnos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:21:45.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositoryServicios.cs",
-              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Repositories\\RepositoryServicios.cs",
-              "RelativeDocumentMoniker": "Models\\Repositories\\RepositoryServicios.cs",
-              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Repositories\\RepositoryServicios.cs",
-              "RelativeToolTip": "Models\\Repositories\\RepositoryServicios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:20:20.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepositoryTurnos.cs",
-              "DocumentMoniker": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Repositories\\RepositoryTurnos.cs",
-              "RelativeDocumentMoniker": "Models\\Repositories\\RepositoryTurnos.cs",
-              "ToolTip": "C:\\Users\\funes\\Desktop\\C#\\PrograII_412201\\Problema2_7_412201_IngIndirecta\\Models\\Repositories\\RepositoryTurnos.cs",
-              "RelativeToolTip": "Models\\Repositories\\RepositoryTurnos.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:18:21.214Z",
+              "WhenOpened": "2024-10-08T14:58:17.083Z",
               "EditorCaption": ""
             }
           ]

@@ -28,6 +28,10 @@ namespace Problema2_7_412201_IngIndirecta.Models.Repositories
 
         public void Save(Turnos turnos)
         {
+            if (turnos.Fecha.Date == DateTime.Now.Date)
+            {
+                turnos.Fecha.Date.AddDays(+1);
+            }
             _context.Turnos.Add(turnos);
             _context.SaveChanges();
         }
