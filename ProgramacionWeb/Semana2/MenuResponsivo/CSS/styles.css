@@ -57,5 +57,7 @@ header label:hover{
         flex-direction: column;
     }
 
-
+    #btn_menu:checked ~ .menu{
+        margin: 0;
+    }
 }
