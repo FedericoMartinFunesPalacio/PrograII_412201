@@ -46,10 +46,16 @@ header label:hover{
     header label{
         display: block;
     }
+    .menu{
+        position: absolute;
+        background-color: aqua;
+        width: 70%;
+        margin-left: -70px;
+    }
 
     .menu ul{
         flex-direction: column;
     }
 
-    
+
 }
